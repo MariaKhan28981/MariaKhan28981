@@ -14,8 +14,7 @@
 
 ## 📫 How to reach me
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:mariakhan200502@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Maria%20Khan-blue?style=for-the-badge&logo=google-chrome)](https://maria-khan.lovable.app)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:mariakhan200502@gmail.com)  [![Portfolio](https://img.shields.io/badge/Portfolio-Maria%20Khan-blue?style=for-the-badge&logo=google-chrome)](https://maria-khan.lovable.app)
 
 - ⚡ Fun fact **My projects usually start with "I don't know how this works yet" and end with "wait...it actually runs?"😭**
 
