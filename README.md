@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **Building software and AI applications using python, machine learning and modern web technologies. Currently working on AI powered projects research and improving my full stack development skills.**
 
-- 🌱 I'm currently learning **Full-stack development, Generative AI, LLM applications, RAG systems, Agentic AI, Deep Learning, and advanced Data Structures & Algorithm**
+- 🌱 I'm currently learning **Generative AI, LLM applications, RAG systems, Agentic AI, Deep Learning, and advanced Data Structures & Algorithm**
 
 - 👯 I'm looking to collaborate on **Open-source Projects, AI-ML applications, full-stack projects, developer tools, and research-oriented technology projects.**
 
